@@ -20,23 +20,21 @@
 
 
 ## Sample Demo Screenshots
-### Custom Sign in
-![Custom Sign In](demo-photos/CustomSignIn.png)
+### Email Sign up 
+![Custom Sign In](Demo/signup.png)
 
-### Social Page Photo
-![Social Page](demo-photos/SocialPagePhoto.png)
+### Social Login 
+![Social Page](Demo/login.png)
 
-### Social Page Shared Photo
-![Social Page](demo-photos/SocialSharedPhoto.png)
+### Notes Taking
+![Social Page](Demo/app.png)
 
-### Upload Image
-![Upload Page](demo-photos/UploadPage.png)
+### Notes Editing
+![Upload Page](Demo/edit.png)
 
-### Viewing All Tags
-![All tags](demo-photos/CategoriesPage.png)
+### Notes Uploading
+![All tags](Demo/upload.png)
 
-### Finding Uploaded Image by Tag
-![Image by tag](demo-photos/UploadedImageFoundInSearch.png)
 
 ## Getting Started
 
